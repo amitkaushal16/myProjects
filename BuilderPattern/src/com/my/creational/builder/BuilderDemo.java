@@ -85,7 +85,7 @@ class HtmlBuilder
   }
 }
 
-class BuilderDemo
+public class BuilderDemo
 {
   public static void main(String[] args)
   {
